@@ -7,12 +7,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 <!---LeetCode Topics End-->
