@@ -40,4 +40,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Deepak18485/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 <!---LeetCode Topics End-->
