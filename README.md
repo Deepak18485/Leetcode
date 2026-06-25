@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Deepak18485/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak18485/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Deepak18485/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## Counting
