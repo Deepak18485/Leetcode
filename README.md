@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Deepak18485/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak18485/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Deepak18485/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## Counting
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak18485/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Deepak18485/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
