@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0575-distribute-candies](https://github.com/Deepak18485/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak18485/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Deepak18485/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Math
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 <!---LeetCode Topics End-->
