@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Deepak18485/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
