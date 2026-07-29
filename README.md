@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Deepak18485/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak18485/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0575-distribute-candies](https://github.com/Deepak18485/Leetcode/tree/main/0575-distribute-candies/) | Easy |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak18485/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0575-distribute-candies](https://github.com/Deepak18485/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepak18485/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -110,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepak18485/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -125,9 +131,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
