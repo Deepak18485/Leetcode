@@ -10,16 +10,14 @@
 
 class Solution {
 public:
-    TreeNode* solve(TreeNode* root, TreeNode* target){
-        if(!root) return NULL;
-        if(root->val==target->val){
-            return root;
-        }
-        TreeNode* ans1=solve(root->left,target);
-        TreeNode* ans2=solve(root->right,target);
-        return ans1!=NULL?ans1:ans2;
-    }
+    TreeNode* ans;
     TreeNode* getTargetCopy(TreeNode* original, TreeNode* cloned, TreeNode* target) {
-        return solve(cloned,target);
+        if(!cloned) return NULL;
+        if(cloned->val==target->val){
+            ans=cloned;
+        }
+        getTargetCopy(original,cloned->left,target);
+        getTargetCopy(original,cloned->right,target);
+        return ans;
     }
 };
