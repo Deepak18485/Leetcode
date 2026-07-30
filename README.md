@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Deepak18485/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Deepak18485/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/Deepak18485/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
