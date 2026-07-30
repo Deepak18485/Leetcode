@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 <!---LeetCode Topics End-->
