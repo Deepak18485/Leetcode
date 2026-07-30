@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Deepak18485/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
