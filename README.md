@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Binary Search Tree
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Deepak18485/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Deepak18485/Leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Deepak18485/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Divide and Conquer
