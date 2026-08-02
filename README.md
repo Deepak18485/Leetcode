@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak18485/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0575-distribute-candies](https://github.com/Deepak18485/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0621-task-scheduler](https://github.com/Deepak18485/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak18485/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak18485/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Deepak18485/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Deepak18485/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Deepak18485/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepak18485/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0575-distribute-candies](https://github.com/Deepak18485/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0621-task-scheduler](https://github.com/Deepak18485/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0877-stone-game](https://github.com/Deepak18485/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepak18485/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Deepak18485/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Deepak18485/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepak18485/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Deepak18485/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak18485/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0621-task-scheduler](https://github.com/Deepak18485/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak18485/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Deepak18485/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Deepak18485/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepak18485/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Quickselect
