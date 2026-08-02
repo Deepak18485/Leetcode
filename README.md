@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Deepak18485/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0575-distribute-candies](https://github.com/Deepak18485/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0877-stone-game](https://github.com/Deepak18485/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepak18485/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Deepak18485/Leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Deepak18485/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak18485/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepak18485/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0877-stone-game](https://github.com/Deepak18485/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak18485/Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Deepak18485/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Divide and Conquer
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Deepak18485/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Deepak18485/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
